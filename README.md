@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📄 Profile:
 🤖 Currently building data-driven dashboards and analytical web projects<br> 💻 Skilled in Java, Python , Data Structures , SQL, OOPS and core CS fundamentals<br> 🔭 Exploring Data Science , Machine Learning, Statistics, and real-world data analysis<br> 📉 Interested in building systems that use data to solve real world problems<br> 🎯 Focused on turning ideas into practical, scalable software and deployable solutions<br> 🤝 Open to collaborate on AI , analytics, data-driven products, scalable system design and innovative tech projects
 
 
